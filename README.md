@@ -1,5 +1,5 @@
 💻 Portfólio Sith
-Eu não sou o tipo de pessoa que gosta de trabalhar com HTML e CSS, mas dutrante meu curso de programação full-stack tive como desafio criar um portifólio usando apenas estas ferramenats juntamente como bootstrap. Como gostei do resultado final achei interessante compartilhar com vocês, pricipalmente para que está iniciando.
+Embora eu não seja um entusiasta para se trabalhar com HTML e CSS, dutrante meu curso de programação full-stack na Infinity School tive como desafio criar um portifólio usando apenas estas ferramenats juntamente como bootstrap. Como gostei do resultado final achei interessante compartilhar com vocês, pricipalmente para que está iniciando.
 
 Este repositório é um exemplo simples de como é possível criar um portfólio legal usando poucas ferramentas. O objetivo é mostrar que, com HTML, CSS e um pouco de organização, qualquer pessoa pode construir e compartilhar seu próprio site de apresentação.
 
@@ -13,14 +13,11 @@ Bootstrap → para facilitar a responsividade e o design
 Se quiser testar ou modificar o código, siga estes passos:
 
 Baixe o projeto
-bash
-Copiar
-Editar
+
 git clone https://github.com/CastorGleydson/portifolio_sith.git
+
 Acesse a pasta do projeto
-bash
-Copiar
-Editar
+
 cd nome-do-repositorio
 Abra o arquivo index.html no navegador
 🎨 O Que Já Está Implementado?
